@@ -27,7 +27,7 @@ export default function Navbar() {
 
           {/* GitHub Button */}
           <a
-            href="https://github.com/YOUR_USERNAME/YOUR_REPO"
+            href="https://github.com/dhirajgupta0001/leetcode-pattern-tracker"
             target="_blank"
             rel="noreferrer"
             className="px-4 py-2 rounded-lg transition border bg-white/5 border-white/10 hover:bg-white/10"
