@@ -259,9 +259,11 @@ export default function Tracker() {
         </header>
 
         <section className="mb-8">
-          <h2 className="text-lg mb-3">Progress by Pattern</h2>
+        <h2 className="text-lg mb-3">Progress by Pattern</h2>
           <Progress items={items} />
         </section>
+
+
 
         <section className="mb-8 rounded-3xl p-5 bg-white/5 border border-white/10 backdrop-blur-md">
           <h2 className="text-lg mb-4">Add Solved Problem</h2>
