@@ -22,7 +22,7 @@ export default function Landing() {
             Open App →
           </Link>
           <a
-            href="https://github.com/"
+            href="https://github.com/dhirajgupta0001/leetcode-pattern-tracker"
             target="_blank"
             rel="noreferrer"
             className="px-6 py-3 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 transition"
@@ -53,7 +53,7 @@ export default function Landing() {
         {/* Footer */}
         <div className="mt-24 text-white/50">
           <p>
-            Built by you as a portfolio project. React • Tailwind • Framer Motion • Vite
+            Built by Dhiraj Gupta as a portfolio project. React • Tailwind • Framer Motion • Vite
           </p>
         </div>
       </div>
